@@ -1,6 +1,5 @@
 {
-  "require" : {
-     "php": ">=5.4.2",
-     "buddzph/dev": "master"
-  }
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
 }
